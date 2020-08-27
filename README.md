@@ -3,6 +3,8 @@
 This app provides a GUI which allows you to search for a song, then send the lyrics to a friend line-by-line over text.
 Keep in mind that this will only work on a machine running OSX which is logged into Messages.
 
+I developed the API, web scraping, and Applescript contact searching/texting while David McAllister created most of the GUI.
+
 ## Functionality
 
 This a Flask API I have set up for retrieving song names and images. It then feeds that information to a local web scraper to get the lyrics.
