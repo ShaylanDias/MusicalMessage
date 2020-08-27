@@ -1,5 +1,7 @@
 # MusicalMessage
 
+![HomePage](home.png)
+
 This app provides a GUI which allows you to search for a song, then send the lyrics to a friend line-by-line over text.
 Keep in mind that this will only work on a machine running OSX which is logged into Messages.
 
